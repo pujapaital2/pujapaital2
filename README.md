@@ -47,24 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pujapaital2&show_icons=true&theme=dark" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pujapaital2&theme=dark" />
-</p>
-
----
-
-## 🌍 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pujapaital2&layout=compact&theme=dark" />
-</p>
 
 ---
 
